@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ksyin
 - 👀 I’m interested in . becoming a fullstack developer..
-- 🌱 I’m currently learning . Jkuat.. 
+- 🌱 I’m currently a student at Jomo Kenyatta University  of Agriculture and Technology(Jkuat) pursuing a Bachelor's degree in IT.. 
 - 💞️ I’m looking to collaborate on ..android application development, web development, freelance online writing,software development .
 - 📫 How to reach me ..via Instagram @titwam/0702837241.
 <!---
