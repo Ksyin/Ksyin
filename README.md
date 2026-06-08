@@ -1,124 +1,91 @@
-# IT Professional Skillset Repository
+# Hi there, I'm Titus Wamae 👋
 
-Welcome to my GitHub repository! This repository showcases my skills and expertise as a well-rounded IT professional, covering various domains such as networking, system administration, programming, and more.
+**IT Professional · Web Developer · Civic Tech Builder**
 
-## About Me
+📍 Nairobi, Kenya · 📬 [tituswamae2018@gmail.com](mailto:tituswamae2018@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/titus-wamae-723933231)
 
-I am a versatile IT specialist with experience in multiple areas of information technology. This repository is a reflection of my hands-on experience and knowledge gained through years of working in the field. My focus lies in designing, managing, and maintaining robust IT solutions for businesses of all sizes.
+---
 
-## Skillset Overview
+Versatile IT specialist with hands-on experience across networking, cloud infrastructure, system administration, and full-stack web development. Currently building civic education technology platforms targeting Kenyan university campuses — bridging enterprise IT practices with modern web development.
 
-### Networking
-- **Network Configuration & Troubleshooting** (LAN, WAN, VPN, Wireless)
-- **Network Security** (Firewalls, VPNs, IDS/IPS)
-- **Routing & Switching** (Cisco, Juniper)
+---
 
-### System Administration
-- **Server Management** (Windows Server, Linux)
-- **Virtualization** (VMware, Hyper-V, VirtualBox)
-- **Active Directory & Group Policy Management**
+## 🛠 Core Skillset
 
-### Cloud Computing
-- **Cloud Platforms** (AWS, Azure, Google Cloud)
-- **Cloud Infrastructure Management** (EC2, S3, RDS, VMs)
-- **DevOps Practices** (CI/CD, Docker, Kubernetes)
+### 🌐 Networking
+- LAN / WAN / VPN / Wireless configuration & troubleshooting
+- Network Security — Firewalls, VPNs, IDS/IPS
+- Routing & Switching — Cisco, Juniper
 
-### Database Management
-- **Database Technologies** (MySQL, PostgreSQL, MongoDB)
-- **Backup & Recovery** (Automated backups, disaster recovery planning)
-- **Performance Tuning** (Indexing, Query Optimization)
+### 🖥 System Administration
+- Server Management — Windows Server, Linux
+- Virtualization — VMware, Hyper-V, VirtualBox
+- Active Directory & Group Policy Management
 
-### Cybersecurity
-- **Security Audits & Vulnerability Assessment**
-- **Endpoint Security** (Antivirus, Malware Protection)
-- **Security Incident Response**
+### ☁️ Cloud & DevOps
+- Cloud Platforms — AWS, Azure, Google Cloud
+- Infrastructure Management — EC2, S3, RDS, VMs
+- DevOps — CI/CD, Docker, Kubernetes
 
-### Programming & Scripting
-- **Languages**: Python, Java, PowerShell, Bash
-- **Automation & Scripting**: Task Automation, Infrastructure as Code (IaC)
-- **API Integration & Development**
+### 🗄 Database Management
+- MySQL · PostgreSQL · MongoDB · Firebase Realtime Database
+- Backup & Recovery, Disaster Recovery Planning
+- Query Optimization & Indexing
 
-### IT Support & Helpdesk
-- **Technical Support**: Hardware & Software troubleshooting
-- **User Training & Documentation**
-- **Ticketing Systems** (Jira, ServiceNow)
+### 🔐 Cybersecurity
+- Security Audits & Vulnerability Assessment
+- Endpoint Security — Antivirus, Malware Protection
+- Security Incident Response
 
-### Project Management
-- **IT Project Planning & Execution**
-- **Team Collaboration** (Agile, Scrum methodologies)
-- **Documentation & Reporting**
+### 💻 Programming & Scripting
+- **Languages:** Python, Java, JavaScript, PowerShell, Bash
+- **Automation:** Task Automation, Infrastructure as Code (IaC)
+- **Web:** API Integration & Development, PWA, Firebase
 
-## Certifications
+### 🎧 IT Support & Helpdesk
+- Hardware & Software Troubleshooting
+- User Training & Documentation
+- Ticketing Systems — Jira, ServiceNow
 
-- [Certification 1]
-- [Certification 2]
-- [Certification 3]
+### 📋 Project Management
+- IT Project Planning & Execution
+- Agile & Scrum Methodologies
+- Documentation & Reporting
 
-## Contact
+---
 
-Feel free to reach out if you'd like to collaborate on any projects, or if you have any questions about my skillset.
+## 🎓 Certifications & Education
 
-- **Email**: [# IT Professional Skillset Repository
+| Credential | Type |
+|---|---|
+| B.Sc in Computer  Science | Degree |
+| IBM Badges | Professional Certification |
+| Cisco Certification | Networking |
+| KCSE | Academic |
 
-Welcome to my GitHub repository! This repository showcases my skills and expertise as a well-rounded IT professional, covering various domains such as networking, system administration, programming, and more.
+---
 
-## About Me
+## 🚀 Featured Projects
 
-I am a versatile IT specialist with experience in multiple areas of information technology. This repository is a reflection of my hands-on experience and knowledge gained through years of working in the field. My focus lies in designing, managing, and maintaining robust IT solutions for businesses of all sizes.
+### Freedom 250 — Civic Education Festival Platform
+A multi-university civic education festival web app with a participant-facing PWA, admin dashboards, and booth management tools.
+- **Stack:** HTML/CSS/JS · Firebase Realtime Database · PWA
+- **Features:** Liberty Coins/Pass system · QR code rewards · Live scoreboard · Polls & quizzes · Booth zone stamping
+- **Active campus:** JKUAT · Upcoming: UoN, Machakos University, DeKUT Nyeri
 
-## Skillset Overview
+---
 
-### Networking
-- **Network Configuration & Troubleshooting** (LAN, WAN, VPN, Wireless)
-- **Network Security** (Firewalls, VPNs, IDS/IPS)
-- **Routing & Switching** (Cisco, Juniper)
+## 📊 GitHub Stats
 
-### System Administration
-- **Server Management** (Windows Server, Linux)
-- **Virtualization** (VMware, Hyper-V, VirtualBox)
-- **Active Directory & Group Policy Management**
+![Titus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true)
 
-### Cloud Computing
-- **Cloud Platforms** (AWS, Azure, Google Cloud)
-- **Cloud Infrastructure Management** (EC2, S3, RDS, VMs)
-- **DevOps Practices** (CI/CD, Docker, Kubernetes)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
 
-### Database Management
-- **Database Technologies** (MySQL, PostgreSQL, MongoDB)
-- **Backup & Recovery** (Automated backups, disaster recovery planning)
-- **Performance Tuning** (Indexing, Query Optimization)
+---
 
-### Cybersecurity
-- **Security Audits & Vulnerability Assessment**
-- **Endpoint Security** (Antivirus, Malware Protection)
-- **Security Incident Response**
+## 📬 Let's Connect
 
-### Programming & Scripting
-- **Languages**: Python, Java, PowerShell, Bash
-- **Automation & Scripting**: Task Automation, Infrastructure as Code (IaC)
-- **API Integration & Development**
+- **Email:** [tituswamae2018@gmail.com](mailto:tituswamae2018@gmail.com)
+- **LinkedIn:** [linkedin.com/in/titus-wamae-723933231](https://linkedin.com/in/titus-wamae-723933231)
 
-### IT Support & Helpdesk
-- **Technical Support**: Hardware & Software troubleshooting
-- **User Training & Documentation**
-- **Ticketing Systems** (Jira, ServiceNow)
-
-### Project Management
-- **IT Project Planning & Execution**
-- **Team Collaboration** (Agile, Scrum methodologies)
-- **Documentation & Reporting**
-
-## Certifications
-
-- [B.Sc in computing]
-- [KCSE]
-- [KCPE]
-- -[IBM Badges]
-- -[Cisco certification }
-
-## Contact
-
-Feel free to reach out if you'd like to collaborate on any projects, or if you have any questions about my skillset.
-
-- **Email**: [tituswamae2018@gmail.com](mailto:tituswamae2018@gmail.com)
-- **LinkedIn**:(https://linkedin.com/in/titus-wamae-723933231)
+> *Open to collaborations on civic tech, event platforms, and IT infrastructure projects.*
